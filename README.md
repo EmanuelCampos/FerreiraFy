@@ -11,11 +11,7 @@ Pipefy.
 * React-dnd - Utilizado para a criação do drag'n'drop.
 * Styled-components - Estilização dos componentes.
 
-
-
 ## Author
 
-## Author
-
-| [<img src="https://avatars2.githubusercontent.com/u/16262455?s=460&v=4"><br><sub>@EmanuelCampos</sub>](https://github.com/EmanuelCampos) |
+| [<img src="https://avatars2.githubusercontent.com/u/16262455?s=115&v=3"><br><sub>@EmanuelCampos</sub>](https://github.com/EmanuelCampos) |
 | :------------------------------------------------------------------------------------------------------------------------------: |
