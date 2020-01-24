@@ -15,4 +15,7 @@ Pipefy.
 
 ## Author
 
-* [Emanuel Campos Lima Ferreira](https://github.com/EmanuelCampos/)
+## Author
+
+| [<img src="https://avatars2.githubusercontent.com/u/16262455?s=460&v=4"><br><sub>@EmanuelCampos</sub>](https://github.com/EmanuelCampos) |
+| :------------------------------------------------------------------------------------------------------------------------------: |
